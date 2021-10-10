@@ -2,3 +2,6 @@ changes added
 now there's some text
 
 now I will amend the commit message
+
+
+and now some changes added via github
