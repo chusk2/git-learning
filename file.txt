@@ -1,3 +1,4 @@
 changes added
 now there's some text
 
+now I will amend the commit message
